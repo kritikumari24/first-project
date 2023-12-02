@@ -1,0 +1,27 @@
+{
+  "name": "first-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kritikumari24/node-js.git"
+  },
+  "keywords": [
+    "12345"
+  ],
+  "author": "kriti das",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kritikumari24/node-js/issues"
+  },
+  "homepage": "https://github.com/kritikumari24/node-js#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "nodemon": "^3.0.2",
+    "simple-node-logger": "^21.8.12"
+  }
+}
